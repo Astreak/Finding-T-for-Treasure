@@ -1,0 +1,7 @@
+We are working with a scenario of Reinforcement Learning where we are applying
+the letter O as a wanderer. That wanderer wants to get the treasure T  to get its reward.
+The condition looks like this:
+O-----T
+The wanderer tries to find the quickest path to reach the treasure. During each
+episode, the steps the wanderer takes to reach the treasure are counted. With each
+episode, the condition improves and the number of steps declines.
